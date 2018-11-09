@@ -1,0 +1,125 @@
+.Rectangle-39 {
+  width: 1366px;
+  height: 768px;
+  background-image: linear-gradient(to bottom, #a56cc1, #a6acec);
+  min-width: 100%;
+  min-height: 100%;
+}
+@font-face {
+	font-family: 'Avenir';  // declare the font name
+	src: url('fonts/Avenir-Light.ttf') format('truetype'); 
+}   
+@font-face {
+	font-family: 'Avenir1';  // declare the font name
+	src: url('fonts/Avenir-Book.ttf') format('truetype'); 
+}   
+@font-face {
+	font-family: 'Avenir2';  // declare the font name
+	src: url('fonts/Avenir-Black.ttf') format('truetype'); 
+}   
+.heading {
+  width: 350px;
+  height: 82px;
+  object-fit: contain;
+  font-family: Avenir;
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.37;
+  letter-spacing: normal;
+  text-align: right;
+  position: fixed;
+  margin: 0;
+  left: 107px;
+  top: 66px;
+}
+.heading2 {
+ width: 165px;
+  height: 33px;
+  object-fit: contain;
+  font-family: Avenir;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: right;
+  color: #ffffff;
+  margin: 0;
+  white-space: nowrap;
+  position: fixed;
+    left: 288px;
+    top: 140px;
+}
+.heading3 {
+  width: 447px;
+  height: 82px;
+  object-fit: contain;
+  font-family: Avenir;
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.37;
+  letter-spacing: normal;
+  text-align: right;
+  margin: 0;
+  position: fixed;
+    left: 107px;
+    top: 320px;
+}
+.para {
+  width: 668px;
+  height: 135px;
+  object-fit: contain;
+  font-family: Avenir;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: left;
+  margin: 0;
+  position: fixed;
+    left: 107px;
+    top: 408px;
+
+}
+
+.Group-1579 {
+  width: 470.1px;
+  height: 541.7px;
+  object-fit: contain;
+  position: fixed;
+    left: 895.9px;
+    top: 122px;
+}
+.Group-1580 {
+  width: 255px;
+  height: 64px;
+  object-fit: contain;
+   position: fixed;
+    left: 77px;
+    top: 614px;
+}
+.Rectangle-39 {
+  width: 1366px;
+  height: 768px;
+  object-fit: contain;
+  background-image: linear-gradient(to bottom, #a56cc1, #a6acec);
+  position: fixed;
+    left: 0px;
+    top: 0px;
+}
+.bold {
+	color:#5B409B;
+	font-weight: 700;
+	text-decoration: none;
+	background: none;
+}
